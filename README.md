@@ -1,5 +1,5 @@
 # Efficient identification of informative features in simulation-based inference
-This repository contains the code for reproducing results of the FSML paper [openreview.net/forum?id=AYQI3rlp9tW](https://openreview.net/forum?id=AYQI3rlp9tW)
+This repository contains the code for reproducing results of the FSML paper [openreview.net/forum?id=AYQI3rlp9tW](https://openreview.net/forum?id=AYQI3rlp9tW). An updated and refactored version of the code can be found [here](https://github.com/berenslab/fslm).
 
 ## Installation
 The necessary packages can be installed via:
