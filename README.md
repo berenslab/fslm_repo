@@ -42,7 +42,7 @@ The repository is structured as follows:
 
 You can find the results to our experiments [here](https://zenodo.org/record/7104245) and reproduce the figures with the provided notebooks.
 
-The templates provide an orientation for setting up FSLME experiments with HH models.
+The templates provide an orientation for setting up FSLM experiments with HH models.
 
 All experiments can be run via the provided bash_script (Only feasable with larger amounts of compute)
 `bash run_experiments.sh`
